@@ -1,0 +1,11 @@
+.cart {
+  width: 300px;
+  border-left: 1px solid #ccc;
+  padding-left: 20px;
+  margin-left: 30px;
+  min-height: 100vh;
+}
+
+.cart-item {
+  margin-bottom: 8px;
+}
